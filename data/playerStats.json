@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Luka Doncic",
+        "image": "/images/luka.gif",
+        "team": "Dallas Mavericks",
+        "teamLogo": "/images/dallasMavericksLogo.svg",
+        "totalGames": 199,
+        "avgPoints": 25.7,
+        "ttlRebounds": 8.4,
+        "assists": 7.7,
+        "fgPct": 45.7,
+        "fg3Pct": 33.1,
+        "ftPct": 73.5,
+        "efgPct": 52.7,
+        "bgColor": "bg-gray-300"
+    },
+    {
+        "name": "Lebron James",
+        "image": "/images/lebron.gif",
+        "team": "Los Angeles Lakers",
+        "teamLogo": "/images/laLakersLogo.svg",
+        "totalGames": 1310,
+        "avgPoints": 27.0,
+        "ttlRebounds": 7.4,
+        "assists": 7.4,
+        "fgPct": 50.4,
+        "fg3Pct": 34.5,
+        "ftPct": 73.3,
+        "efgPct": 54.3,
+        "bgColor": "bg-yellow-300"
+    },
+    {
+        "name": "Michael Jordan",
+        "image": "/images/jordan.gif",
+        "team": "Chicago Bulls",
+        "teamLogo": "/images/chicagoBullsLogo.svg",
+        "totalGames": 1072,
+        "avgPoints": 30.1,
+        "ttlRebounds": 6.2,
+        "assists": 5.3,
+        "fgPct": 49.7,
+        "fg3Pct": 32.7,
+        "ftPct": 83.5,
+        "efgPct": 50.9,
+        "bgColor": "bg-red-300"
+    }
+]
